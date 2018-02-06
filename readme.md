@@ -3,4 +3,4 @@
 Automated Testing Sample, with laravel  
 * clone this repository
 * setup your db on `.env` file
-* run `composer install`, and `vendor/bin/phpunit`
+* run `composer install`, `php artisan migrate`, and `vendor/bin/phpunit`
